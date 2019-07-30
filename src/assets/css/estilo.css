@@ -1,3 +1,7 @@
 body {
-    background: #441524
+    background: #441524;
+    background-image: url(../imgs/cavaludo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh
 }
